@@ -2,3 +2,7 @@
 	path = account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 16.0
+[submodule "operating-unit"]
+	path = operating-unit
+	url = git@github.com:OCA/operating-unit.git
+	branch = 16.0
