@@ -6,3 +6,7 @@
 	path = operating-unit
 	url = git@github.com:OCA/operating-unit.git
 	branch = 16.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 16.0
